@@ -18,3 +18,6 @@ You can author your README using Visual Studio Code. Here are some useful editor
 # vscode-theme
 
 I'm interested in making a visual studio code theme for fun and to challenge my color theory skills.
+
+# resources:
+- [Coder Coder](https://coder-coder.com/vs-code-theme-color-generator/)
