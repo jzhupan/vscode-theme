@@ -5,14 +5,14 @@
   "colors": {
     "activityBar.background": "#130623",
     "activityBar.border": "#13062360",
-    "activityBar.foreground": "#E849DA",
+    "activityBar.foreground": "#993290",
     "activityBarBadge.background": "#FFFCCB",
     "activityBarBadge.foreground": "#130623",
     "badge.background": "#13062330",
     "badge.foreground": "#BE39FF",
     "breadcrumb.activeSelectionForeground": "#BE39FF",
     "breadcrumb.background": "#130623",
-    "breadcrumb.focusForeground": "#E849DA",
+    "breadcrumb.focusForeground": "#993290",
     "breadcrumb.foreground": "#24F0FF",
     "breadcrumbPicker.background": "#130623",
     "button.background": "#BE39FF50",
@@ -360,7 +360,8 @@
     {
       "scope": [
         "variable.parameter.js",
-        "variable.parameter.keyframe-list.css"
+        "variable.parameter.keyframe-list.css",
+        "storage.type.js"
       ],
       "settings": {
         "foreground": "#a8ff6e"
@@ -369,7 +370,7 @@
     {
       "scope": [
         "variable.other.object.js",
-        "storage.type.js",
+
         "string.other.link.title.markdown",
         "variable.other.readwrite.js",
         "variable.other.property.js"
