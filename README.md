@@ -1,6 +1,9 @@
-# code-pastel README
+# Midnight Grape
 
-## Working with Markdown
+## A VSCode theme with a purple veil and vibrant colors
+
+installs
+![alt](https://github.com/jzhupan/vscode-theme.git)
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
@@ -17,4 +20,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 # vscode-theme
 
-I'm interested in making a visual studio code theme for fun and to challenge my color theory skills.
+This is a case study, learning to create a customized visual studio code theme.

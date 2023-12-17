@@ -19,7 +19,8 @@
     "midnight grape",
     "midnight grape theme",
     "pink",
-    "cyber"
+    "cyber",
+    "neon"
   ],
   "engines": {
     "vscode": "^1.85.0"
@@ -32,7 +33,7 @@
       {
         "label": "Code Pastel",
         "uiTheme": "vs-dark",
-        "path": "./themes/Code Pastel-color-theme.json"
+        "path": "./themes/Midnight-Grape-theme.json"
       }
     ]
   }
