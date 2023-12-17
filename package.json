@@ -36,5 +36,8 @@
         "path": "./themes/Midnight-Grape-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "badge-maker": "^3.3.1"
   }
 }
