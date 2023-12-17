@@ -20,4 +20,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 # vscode-theme
 
-This is a case study, learning to create a customized visual studio code theme.
+I'm interested in making a visual studio code theme for fun and to challenge my color theory skills.
