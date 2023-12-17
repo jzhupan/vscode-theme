@@ -3,12 +3,11 @@
 <p align="center"><strong>A VSCode theme with a touch of violet/purple and other vibrant colors</strong></p>
 
 <p align="center">
-<a><img src="https://img.shields.io/visual-studio-marketplace/i/jenniezp.midnight-grape-theme?style=flat-square&logo=%23007ACC&logoColor=fuchsia&label=Install&labelColor=%23403D39&color=%23FF0080&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Djenniezp.midnight-grape-theme"></a>
+<a><img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/jenniezp.midnight-grape-theme?style=flat-square&label=Installs&labelColor=FF0080&color=3b3b3b&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Djenniezp.midnight-grape-theme
+"></a>
 </p>
 
-https://marketplace.visualstudio.com/manage/publishers/jenniezp?auth_redirect=True
-
-![alt](https://github.com/jzhupan/vscode-theme/blob/main/themes/assets/midnight-grape-preview.png?raw=true)
+![alt](https://github.com/jzhupan/vscode-theme/blob/main/themes/assets/midnight-grape.png?raw=true)
 
 # Resources:
 
