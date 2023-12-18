@@ -3,7 +3,7 @@
   "displayName": "Midnight Grape",
   "description": "Enjoy my customized theme, hope it's to your liking",
   "version": "0.9.0",
-  "icon": "/themes/assets/MG-logo-icon.png",
+  "icon": "../midnight-grape/themes/assets/MG-logo-icon.png",
   "publisher": "jenniezp",
   "repository": {
     "type": "git",
