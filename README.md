@@ -4,6 +4,7 @@
 
 <p align="center">
 <a href="http://bit.ly/4amzZmZ"><img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/jenniezp.midnight-grape-theme?style=flat-square&label=Installs&labelColor=FF0080&color=3b3b3b&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Djenniezp.midnight-grape-theme" alt="Installs"></a>&nbsp;
+  <a href="http://bit.ly/4amzZmZ"><img src="https://img.shields.io/visual-studio-marketplace/v/jenniezp.midnight-grape-theme?style=flat-square&label=Version&labelColor=FF0080&color=3b3b3b" alt="Installs"></a>&nbsp;
 </p>
 
 ![alt](https://github.com/jzhupan/vscode-theme/blob/main/themes/assets/midnight-grape.png?raw=true)
