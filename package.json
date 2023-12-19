@@ -21,7 +21,10 @@
     "midnight grape theme",
     "pink",
     "cyber",
-    "neon"
+    "neon",
+    "cyan",
+    "yellow",
+    "fuchsia"
   ],
   "engines": {
     "vscode": "^1.85.0"
