@@ -37,7 +37,7 @@
       {
         "label": "Midnight Grape",
         "uiTheme": "vs-dark",
-        "path": "./themes/Midnight-Grape-theme.json"
+        "path": "/themes/Midnight-Grape-theme.json"
       }
     ]
   },
