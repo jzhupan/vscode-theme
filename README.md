@@ -18,3 +18,5 @@
 [Coder Coder tutorial](https://youtu.be/pGzssFNtWXw?si=nCR7vmBHSoHv4QnL)
 
 [Coder coder VS Code theme color generator](https://coder-coder.com/vs-code-theme-color-generator/)
+
+Update: 1.4.0v
